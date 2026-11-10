@@ -1,0 +1,19 @@
+{
+  "name": "Лягухи 2048",
+  "short_name": "Лягухи 2048",
+  "description": "Бросайте лягушек в столбцы, объединяйте одинаковых и выращивайте гигантских жаб на гексагональных кувшинках.",
+  "id": "./",
+  "start_url": "./",
+  "scope": "./",
+  "display": "standalone",
+  "background_color": "#2B675E",
+  "theme_color": "#3B8A80",
+  "lang": "ru",
+  "categories": ["games", "puzzle"],
+  "icons": [
+    { "src": "icons/icon.svg", "sizes": "any", "type": "image/svg+xml", "purpose": "any" },
+    { "src": "icons/icon-192.png", "sizes": "192x192", "type": "image/png", "purpose": "any" },
+    { "src": "icons/icon-512.png", "sizes": "512x512", "type": "image/png", "purpose": "any" },
+    { "src": "icons/icon-maskable-512.png", "sizes": "512x512", "type": "image/png", "purpose": "maskable" }
+  ]
+}
